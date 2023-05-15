@@ -1,2 +1,2 @@
 # AppClipQuickStart
-Make an app clip.
+Make an app clip with your config
